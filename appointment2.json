@@ -1,0 +1,8 @@
+{
+    "patientName": "Maria Garcia",
+    "provider": "Dr. Brown",
+    "appointmentDate": "2026-06-20",
+    "appointmentTime": "9:00 AM",
+    "reason": "Blood Pressure Check",
+    "status": "Confirmed"
+  }

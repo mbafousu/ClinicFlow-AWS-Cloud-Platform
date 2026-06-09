@@ -1,0 +1,8 @@
+{
+    "patientName": "Michael Davis",
+    "provider": "Dr. Wilson",
+    "appointmentDate": "2026-06-22",
+    "appointmentTime": "11:15 AM",
+    "reason": "Cardiology Consultation",
+    "status": "Scheduled"
+  }

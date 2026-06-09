@@ -1,0 +1,8 @@
+{
+  "patientName": "John Johnson",
+  "provider": "Dr. Williams",
+  "appointmentDate": "2026-06-18",
+  "appointmentTime": "2:30 PM",
+  "reason": "Annual Physical",
+  "status": "Scheduled"
+}

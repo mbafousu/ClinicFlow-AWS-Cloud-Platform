@@ -1,0 +1,39 @@
+[
+{
+  "appointmentId": "APT001",
+  "patientName": "Carol Mba",
+  "provider": "Dr. Sarah Johnson",
+  "appointmentDate": "2026-06-15",
+  "appointmentTime": "10:00 AM",
+  "department": "Cardiology",
+  "reason": "Routine Checkup",
+  "status": "Scheduled"
+} ,
+
+{
+  "patientName": "John Johnson",
+  "provider": "Dr. Williams",
+  "appointmentDate": "2026-06-18",
+  "appointmentTime": "2:30 PM",
+  "reason": "Annual Physical",
+  "status": "Scheduled"
+},
+ {
+    "patientName": "Maria Garcia",
+    "provider": "Dr. Brown",
+    "appointmentDate": "2026-06-20",
+    "appointmentTime": "9:00 AM",
+    "reason": "Blood Pressure Check",
+    "status": "Confirmed"
+  },
+   {
+    "patientName": "Michael Davis",
+    "provider": "Dr. Wilson",
+    "appointmentDate": "2026-06-22",
+    "appointmentTime": "11:15 AM",
+    "reason": "Cardiology Consultation",
+    "status": "Scheduled"
+  }
+]
+
+
