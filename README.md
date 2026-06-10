@@ -6,7 +6,7 @@ ClinicFlow AWS Cloud Platform is a cloud-native healthcare appointment managemen
 
 The platform provides appointment management capabilities through a REST API powered by AWS Lambda and API Gateway, while appointment records are stored in Amazon DynamoDB. CloudWatch and SNS are used for monitoring and alerting to ensure operational visibility.
 
-## Architecture
+## AWS Architecture
 
 ```text
 React ClinicFlow Booking Portal
@@ -28,6 +28,11 @@ React ClinicFlow Booking Portal
 
 CloudWatch ───► SNS Alerts
 ```
+## DynamoDB Appointment Records
+![DynamoDB Table](screenshots/dynamodb-table.png)
+
+## Terraform Deployment
+![Terraform Apply](screenshots/terraform-apply-success.png)
 
 ## Features
 
